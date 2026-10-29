@@ -2,7 +2,7 @@
 
 🎓 M.S. in **Health Sciences Informatics (Research)** at **Johns Hopkins School of Medicine** (Biomedical Informatics & Data Science)
 🏛️ B.S. Information Science (Neuroscience & Data Science minors), **UNC Chapel Hill**
-📍 Baltimore, MD · 🗣️ English · 中文 · Español · 한국어
+
 
 I design and study health technology that clinicians and patients can actually use, at the intersection of **clinical informatics, human-computer interaction, and neuroscience**.
 
@@ -39,7 +39,7 @@ I design and study health technology that clinicians and patients can actually u
 ## 📫 Let's Connect
 - 🌐 [Website](https://sites.google.com/yuqilin2022)
 - 📧 yuqilin2022@gmail.com
-- 💼 [LinkedIn URL]
+- 💼 https://www.linkedin.com/in/yuqilin2022/
 
 💬 **Ask me about:** health informatics, UX research for clinical tools, VR in neuroscience, teaching digital literacy
 ⚡ **Fun fact:** I worked front-of-house at my family's restaurant for 12 years before becoming a grad student in biomedical informatics.
