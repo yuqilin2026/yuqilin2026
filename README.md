@@ -1,7 +1,8 @@
 # Hi, I'm Yu Qi Lin 👋
 
-🎓 M.S. in **Health Sciences Informatics (Research)** at **Johns Hopkins School of Medicine** (Biomedical Informatics & Data Science)
-🏛️ B.S. Information Science (Neuroscience & Data Science minors), **UNC Chapel Hill**
+🎓 M.S. in **Health Sciences Informatics (Research)** at **Johns Hopkins School of Medicine** (Biomedical Informatics & Data Science)  
+
+🏛️ B.S. Information Science (Neuroscience & Data Science minors), **UNC Chapel Hill**  
 
 
 I design and study health technology that clinicians and patients can actually use, at the intersection of **clinical informatics, human-computer interaction, and neuroscience**.
